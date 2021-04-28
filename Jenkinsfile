@@ -19,9 +19,9 @@ pipeline{
                 }
             }
         }
-        stage("Bump Version") {
+        stage("Bump History") {
             when {
-                branch "main"
+                branch "next/2.4.x.x"
                 not {
                     // to avoid an infinite loop, we only want to bump the version if
                     // the VERSION file wasn't in the last changeset
