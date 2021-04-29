@@ -1,3 +1,3 @@
 # bumper-ee
 
-Test adding items to HISTORY.md.
+Test bumping version and history
