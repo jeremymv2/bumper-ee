@@ -4,6 +4,10 @@
 
 <!-- pull_requests_start -->
 
+#### 2.4.0.3
+
+* adding KONG_EE_REPO_NAME to Jenkinsfile [#9](https://github.com/jeremymv2/bumper-ee/pull/9) ([jeremymv2](https://api.github.com/users/jeremymv2))<!-- b6b0efd4d5d71c26aa961b9480748da95e4427fb -->
+
 #### 2.4.0.2
 
 * updates to readme [#7](https://github.com/jeremymv2/bumper-ee/pull/7) ([jeremymv2](https://api.github.com/users/jeremymv2))<!-- 079be40a662c27a661678ea48aba6f35e83a4c4d -->
