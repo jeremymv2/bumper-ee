@@ -1,3 +1,3 @@
 # bumper-ee
 
-Test bumping version and history
+Test bumping version and history.
