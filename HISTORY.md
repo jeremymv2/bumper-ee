@@ -4,6 +4,10 @@
 
 <!-- pull_requests_start -->
 
+#### 2.4.0.2
+
+* updates to readme [#7](https://github.com/jeremymv2/bumper-ee/pull/7) ([jeremymv2](https://api.github.com/users/jeremymv2))<!-- 079be40a662c27a661678ea48aba6f35e83a4c4d -->
+
 #### 2.4.0.1
 
 * add meta.lua [#6](https://github.com/jeremymv2/bumper-ee/pull/6) ([jeremymv2](https://api.github.com/users/jeremymv2))<!-- 941a3d830a6c529172f2c816d3b6c63888840c25 -->
