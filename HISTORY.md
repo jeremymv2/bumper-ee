@@ -2,6 +2,14 @@
 
 <!-- pull_requests_start -->
 
+## [2.4.0.6](https://github.com/jeremymv2/bumper-ee/tree/2.4.0.6)
+[Full Changelog](https://github.com/jeremymv2/bumper-ee/compare/2.4.0.6...2.4.0.5)
+
+**Merged pull requests:**
+
+
+* updating README [#12](https://github.com/jeremymv2/bumper-ee/pull/12) ([jeremymv2](https://api.github.com/users/jeremymv2))<!-- 4ab7c499fba2e808886cf27c5961c4913f64ed12 -->
+
 ## [2.4.0.5](https://github.com/jeremymv2/bumper-ee/tree/2.4.0.5)
 [Full Changelog](https://github.com/jeremymv2/bumper-ee/compare/2.4.0.5...2.4.0.4)
 
