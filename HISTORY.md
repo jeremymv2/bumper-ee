@@ -4,6 +4,14 @@
 
 <!-- pull_requests_start -->
 
+## [2.4.0.4](https://github.com/jeremymv2/bumper-ee/tree/2.4.0.4)
+[Full Changelog](https://github.com/jeremymv2/bumper-ee/compare/2.4.0.4...2.4.0.4)
+
+**Merged pull requests:**
+
+
+* more conditions to Jenkinsfile [#10](https://github.com/jeremymv2/bumper-ee/pull/10) ([jeremymv2](https://api.github.com/users/jeremymv2))<!-- 8f149b62e26e83244691b2c0d3dd1a396cfdf60b -->
+
 #### 2.4.0.3
 
 * adding KONG_EE_REPO_NAME to Jenkinsfile [#9](https://github.com/jeremymv2/bumper-ee/pull/9) ([jeremymv2](https://api.github.com/users/jeremymv2))<!-- b6b0efd4d5d71c26aa961b9480748da95e4427fb -->
