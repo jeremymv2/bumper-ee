@@ -25,9 +25,13 @@ pipeline{
             when {
                 branch "next/2.4.x.x"
                 not {
-                    // to avoid an infinite loop, we only want to bump the version if
-                    // the HISTORY file wasn't in the last changeset
-                    changeset "HISTORY.md"
+                    anyOf {
+                        // to avoid an infinite loop, we only want to bump the version if
+                        // the associated version files were not in the last changeset
+                        changeset "*.rockspec"
+                        changeset "**/**/meta.lua"
+                        changeset "HISTORY.md"
+                    }
                 }
             }
             steps {
