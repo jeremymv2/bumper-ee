@@ -1,7 +1,5 @@
 # HISTORY
 
-### Pull Requests
-
 <!-- pull_requests_start -->
 
 ## [2.4.0.5](https://github.com/jeremymv2/bumper-ee/tree/2.4.0.5)
