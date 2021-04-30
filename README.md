@@ -1,3 +1,3 @@
 # bumper-ee
 
-Test repo bumping version and history.
+Test playground for repo bumping version and history.
