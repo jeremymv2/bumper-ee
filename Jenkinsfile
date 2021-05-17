@@ -10,7 +10,7 @@ pipeline{
     environment {
         GITHUB_TOKEN = credentials('github_bot_access_token')
         DOCKERHUB_KONGCLOUD_PULL = credentials('DOCKERHUB_KONGCLOUD_PULL')
-        KONG_VERSION = "2.4.0.9"
+        KONG_VERSION = "2.4.0.10"
         KONG_EE_REPO_NAME = "bumper-ee"
     }
     stages {
