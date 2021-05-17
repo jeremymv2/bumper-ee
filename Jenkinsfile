@@ -8,7 +8,7 @@ pipeline{
         timeout(time: 30, unit: 'MINUTES')
     }
     environment {
-        GITHUB_TOKEN = credentials('BUMPER_GITHUB_TOKEN')
+        GITHUB_TOKEN = credentials('github_bot_access_token')
         DOCKERHUB_KONGCLOUD_PULL = credentials('DOCKERHUB_KONGCLOUD_PULL')
         KONG_VERSION = "2.4.0.9"
         KONG_EE_REPO_NAME = "bumper-ee"
@@ -31,6 +31,7 @@ pipeline{
                         changeset "*.rockspec"
                         changeset "**/**/meta.lua"
                         changeset "HISTORY.md"
+                        changeset "Jekinsfile"
                     }
                 }
             }
